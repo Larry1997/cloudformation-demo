@@ -7,7 +7,7 @@
         "myS3Bucket2" : {
       "Type" : "AWS::S3::Bucket"
       },
-        ,
+        
         "myS3Bucket3" : {
       "Type" : "AWS::S3::Bucket"
       }
